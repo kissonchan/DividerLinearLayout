@@ -13,6 +13,7 @@
 因此，针对此类场景，我在LinearLayout可以设置分割线样式的属性的基础上，加以改进，提炼出使用场景更广的DividerLinearLayout。
 #简介
 项目地址：[DividerLinearLayout](https://github.com/kissonchan/DividerLinearLayout)
+
 LinearLayout在Android3.0以上版本支持设置分割线样式的属性。关于该属性的具体使用方法，本文不在叙述。
 DividerLinearLayout效果图如下：
 
