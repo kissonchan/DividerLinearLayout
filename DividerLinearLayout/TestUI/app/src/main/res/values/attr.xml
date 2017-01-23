@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="borderLinearLayout">
+        <attr name="headerDividerEnable" format="boolean"/>
+        <attr name="footerDividerEnable" format="boolean"/>
+        <attr name="dividerColor" format="color"/>
+        <attr name="dividerWidth" format="dimension"/>
+        <attr name="headerDividerPaddingStart" format="dimension"/>
+        <attr name="headerDividerPaddingEnd" format="dimension"/>
+        <attr name="footerDividerPaddingStart" format="dimension"/>
+        <attr name="footerDividerPaddingEnd" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>
